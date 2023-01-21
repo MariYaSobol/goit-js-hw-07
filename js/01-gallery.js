@@ -38,4 +38,4 @@ function onImageClick(event) {
     }
   });
 }
-galleryEl.addEventListener("click", onImageClick);
+imagesContainer.addEventListener("click", onImageClick);
